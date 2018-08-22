@@ -1,6 +1,8 @@
 # NeMO-Broad-Demo-2018
 This demo describes data flow between NeMO and the Broad
 
+In order to access to BCDC Computes, you will need to be added to the billing project. If this is your first time using this demo, please contact ttickle@broadinstitute.org.
+
 ## Initial Demo
 The first offering will be how to move transcriptomics data from the NeMO archive to FireCloud and the Single Cell Portal for cloud native pipelines and computes. This first offering will start as a manual process with tutorials, and after feedback that it is useful will be automated for the community.
 
