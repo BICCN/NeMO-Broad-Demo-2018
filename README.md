@@ -1,3 +1,5 @@
+# This wiki is deprecated please go to [https://github.com/BICCN/nemo-terra-cloud-computing/wiki](https://github.com/BICCN/nemo-terra-cloud-computing/wiki)   
+
 # NeMO-Broad-Demo-2018
 This demo describes data flow between NeMO and the Broad
 
